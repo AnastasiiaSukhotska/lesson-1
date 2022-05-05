@@ -25,3 +25,7 @@ li a {
 .first-line{
     justify-self: start;
 }
+
+header{
+    height: 25vh;
+}

@@ -1,13 +1,17 @@
 footer {
     background-color: #ccc;
     padding: 25px;
+    height: 30vh;
+
 
 }
 
-p {
-    padding: 0px;
+span {
+    text-align: left;
+    display: block;
+    padding: 20px;
 }
 
-p:last-child {
+span:last-child {
     text-align: center;
 }
