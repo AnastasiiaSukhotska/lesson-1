@@ -1,0 +1,8 @@
+p {
+    padding: 10px 25px;
+    text-align: left;
+}
+
+p:last-child {
+    margin-bottom: 150px;
+}

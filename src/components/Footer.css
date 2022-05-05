@@ -1,0 +1,13 @@
+footer {
+    background-color: #ccc;
+    padding: 25px;
+
+}
+
+p {
+    padding: 0px;
+}
+
+p:last-child {
+    text-align: center;
+}
